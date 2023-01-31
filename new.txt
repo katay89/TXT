@@ -1,0 +1,6 @@
+
+name - Alexandr Kataev
+age - 33
+pets - 2(nephews)
+salary - 1500
+
